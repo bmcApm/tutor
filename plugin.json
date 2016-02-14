@@ -6,7 +6,7 @@
    "tags" : "tutorial",
    "description": "Meter Plugin Tutorial",
    "icon": "true-site.png",
-   "command": "python init.py",
+   "command_lua":"main.lua",
    "postExtract": "",
    "metrics": [
        "TUTORIAL_METRIC"
