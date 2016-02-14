@@ -6,7 +6,7 @@
    "tags" : "tutorial",
    "description": "Meter Plugin Tutorial",
    "icon": "tugboat.lua.png",
-   "command_lua":"main.lua",
+   "command":"main.lua",
    "postExtract": "",
    "metrics": [
        "TUTORIAL_METRIC"
