@@ -5,7 +5,7 @@
    "unsupportedPlatforms": [],
    "tags" : "tutorial",
    "description": "Meter Plugin Tutorial",
-   "icon": "true-site.png",
+   "icon": "tugboat.lua.png",
    "command_lua":"main.lua",
    "postExtract": "",
    "metrics": [
