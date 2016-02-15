@@ -1,12 +1,12 @@
 {
-   "name": "Tutorial Meter Plugin",
+   "name": "Tugboat",
    "version": "1.0.0",
    "meterVersionRequired": "4.2.0-611",
    "unsupportedPlatforms": [],
    "tags" : "tutorial",
    "description": "Meter Plugin Tutorial",
-   "icon": "tugboat.lua.png",
-   "command":"main.lua",
+   "icon": "tugboat.png",
+   "command_lua":"main.lua",
    "postExtract": "",
    "metrics": [
        "TUTORIAL_METRIC"
