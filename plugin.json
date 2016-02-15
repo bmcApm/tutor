@@ -6,7 +6,7 @@
    "tags" : "tutorial",
    "description": "Meter Plugin Tutorial",
    "icon": "tugboat.png",
-   "command_lua":"boundary-meter main.lua",
+   "command_lua":"boundary-meter init.lua",
    "postExtract": "",
    "metrics": [
        "TUTORIAL_METRIC"
